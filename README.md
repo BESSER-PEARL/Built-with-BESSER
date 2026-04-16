@@ -17,6 +17,14 @@ A Customer Relationship Management system generated with BESSER, showcasing how 
 | v1 — Raw Generated | Initial CRM generated directly from BESSER models | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/master) |
 | v2 — Enhanced | Extended with authentication, AI lead scoring, email assistant, and more | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/v2_modified) |
 
+### Luxembourg AI Factory Dashboard
+
+A collaborative AI assessment dashboard built with BESSER for the Luxembourg AI Factory Sandbox, showing how generated full-stack applications can be extended with reusable comments and custom data visualizations.
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — Raw Generated | Initial BESSER-generated dashboard scaffold based on the Luxembourg AI Factory data model, providing the generated full-stack foundation before collaborative and visualization enhancements. | [Repository](https://github.com/prasadadhav/lux_ai_factory_dashboard/tree/v1_ai_dashboard_raw_generated) |
+| v2 — Enhanced | Dashboard with nested comments, dummy users for collaboration, and custom stacked-bar plots on top of a BESSER-generated scaffold. | [Repository](https://github.com/prasadadhav/lux_ai_factory_dashboard/tree/v2_ai_dashboard_enhanced) |
 ### SkillMatcher
 
 A skill matching application that lets colleages or fellow students to look for their teachers to learn skills. The app can match learners and teachers automatically, setup sessions to learn an collect reviews too. This app is generated with BESSER.
