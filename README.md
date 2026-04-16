@@ -15,7 +15,7 @@ A Customer Relationship Management system generated with BESSER, showcasing how 
 | Version | Description | Link |Deployement URL|
 |---------|-------------|------|------|
 | v1 — Raw Generated | Initial CRM generated directly from BESSER models | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/master) |
-| v2 — Enhanced | Extended with authentication, AI lead scoring, email assistant, and more | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/v2_modified) |
+| v2 — Enhanced | Extended with authentication, AI lead scoring, email assistant, and more | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/v2_modified) | https://nexacrm-app-xwsw.onrender.com/login |
 
 ### Luxembourg AI Factory Dashboard
 
