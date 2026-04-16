@@ -31,7 +31,7 @@ A skill matching application that lets colleages or fellow students to look for 
 
 | Version | Description | Link |Deployement URL|
 |---------|-------------|------|------|
-| v1.0.0 — Raw Generated | Backend and Frontend developed with BESSER | [Repository](https://github.com/natarajan-chidambaram/skillset-match) |
+| v1.0.0 — Raw Generated | Backend and Frontend developed with BESSER | [Repository](https://github.com/natarajan-chidambaram/skillset-match) |https://skillset-matcher.onrender.com/home|
 ### Ask Safely
 A BAF agent that helps users safely query Knowledge Graphs (KGs) while preventing potential disclosure of sensitive data to large language models (LLMs).
 
