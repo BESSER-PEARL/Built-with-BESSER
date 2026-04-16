@@ -46,7 +46,6 @@ A web application for managing research publications, supporting BibTeX import, 
 |---------|-------------|------|------|
 | v1 — Publication Repository | Application generated with BESSER for managing research publications | [Repository](https://github.com/maurodlt/PublicationRepository) |
 
----
 
 ### ConferenceEventPlanner
 
