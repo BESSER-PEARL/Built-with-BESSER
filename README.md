@@ -32,7 +32,7 @@ A collaborative evaluation dashboard built with BESSER to benchmark large langua
 | Version | Description | Link |Deployement URL|
 |---------|-------------|------|------|
 | v1 — Raw Generated | Initial BESSER-generated dashboard scaffold based on the Luxembourg AI Factory data model. | | |
-| v2 — Enhanced | Extended dashboard with filter block for barchart visualization  and dark mode. | [Repository](https://github.com/ivan-alfonso/leaderboard) | |
+| v2 — Enhanced | Extended dashboard with filter block for barchart visualization  and dark mode. | [Repository](https://github.com/ivan-alfonso/leaderboard) |leaderboard-letz.besser-pearl.org |
 ### SkillMatcher
 
 A skill matching application that lets colleages or fellow students to look for their teachers to learn skills. The app can match learners and teachers automatically, setup sessions to learn an collect reviews too. This app is generated with BESSER.
