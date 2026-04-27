@@ -25,6 +25,14 @@ A collaborative AI assessment dashboard built with BESSER for the Luxembourg AI 
 |---------|-------------|------|------|
 | v1 — Raw Generated | Initial BESSER-generated dashboard scaffold based on the Luxembourg AI Factory data model, providing the generated full-stack foundation before collaborative and visualization enhancements. | [Repository](https://github.com/prasadadhav/lux_ai_factory_dashboard/tree/v1_ai_dashboard_raw_generated) |
 | v2 — Enhanced | Dashboard with nested comments, dummy users for collaboration, and custom stacked-bar plots on top of a BESSER-generated scaffold. | [Repository](https://github.com/prasadadhav/lux_ai_factory_dashboard/tree/v2_ai_dashboard_enhanced) |
+### Luxembourguish Leaderboard
+
+A collaborative evaluation dashboard built with BESSER to benchmark large language models on Luxembourgish language proficiency exams across multiple CEFR levels and linguistic skills.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1 — Raw Generated | Initial BESSER-generated dashboard scaffold based on the Luxembourg AI Factory data model. | | |
+| v2 — Enhanced | Extended dashboard with filter block for barchart visualization  and dark mode. | [Repository](https://github.com/ivan-alfonso/leaderboard)) | |
 ### SkillMatcher
 
 A skill matching application that lets colleages or fellow students to look for their teachers to learn skills. The app can match learners and teachers automatically, setup sessions to learn an collect reviews too. This app is generated with BESSER.
