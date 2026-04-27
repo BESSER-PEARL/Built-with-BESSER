@@ -25,7 +25,7 @@ A collaborative AI assessment dashboard built with BESSER for the Luxembourg AI 
 |---------|-------------|------|------|
 | v1 — Raw Generated | Initial BESSER-generated dashboard scaffold based on the Luxembourg AI Factory data model, providing the generated full-stack foundation before collaborative and visualization enhancements. | [Repository](https://github.com/prasadadhav/lux_ai_factory_dashboard/tree/v1_ai_dashboard_raw_generated) |
 | v2 — Enhanced | Dashboard with nested comments, dummy users for collaboration, and custom stacked-bar plots on top of a BESSER-generated scaffold. | [Repository](https://github.com/prasadadhav/lux_ai_factory_dashboard/tree/v2_ai_dashboard_enhanced) |
-### Luxembourguish Leaderboard
+### Luxembourgish Leaderboard
 
 A collaborative evaluation dashboard built with BESSER to benchmark large language models on Luxembourgish language proficiency exams across multiple CEFR levels and linguistic skills.
 
