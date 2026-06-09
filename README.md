@@ -63,6 +63,15 @@ A conference event planning application generated with BESSER, managing sessions
 |---------|-------------|------|------|
 | v1 — Generated | Event planner generated from BESSER models with session scheduling, speaker assignment, room allocation, and dashboard analytics | [Repository](https://github.com/AtefehNirumandJazi/ConferenceEventPlanner) |
 
+### H-Index Predictor
+
+An academic impact forecasting tool generated with BESSER, predicting a researcher's H-Index 5 years ahead using a neural network trained on Semantic Scholar data.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1 — Raw Generated | Initial app generated directly from BESSER | [Repository](https://github.com/DaoudiNadia/HIndexPredictor-BESSER/tree/master) |
+| v2 — Enhanced | Extended with UI improvements on top of the generated code | [Repository](https://github.com/DaoudiNadia/HIndexPredictor-BESSER/tree/v2-improved) |
+
 ---
 
 ## How to Add Your Tool
