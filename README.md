@@ -8,6 +8,14 @@ BESSER enables rapid development of full-stack applications through model-driven
 
 ## Applications
 
+### DiscoStore
+
+A web e-commerce platform enabling album browsing, cart management, order tracking, shipping coordination, and customer feedback collection.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1 — Raw Generated | Initial release generated from BESSER | [Repository](https://github.com/theiari/discostore) | https://discostore-frontend-b9354b.onrender.com/user
+
 ### NexaCRM
 
 A Customer Relationship Management system generated with BESSER, showcasing how domain modeling translates into a complete working application.
