@@ -80,6 +80,13 @@ An academic impact forecasting tool generated with BESSER, predicting a research
 | v1 — Raw Generated | Initial app generated directly from BESSER | [Repository](https://github.com/DaoudiNadia/HIndexPredictor-BESSER/tree/master) |
 | v2 — Enhanced | Extended with UI improvements on top of the generated code | [Repository](https://github.com/DaoudiNadia/HIndexPredictor-BESSER/tree/v2-improved) |
 
+### Chatbot
+
+A conversational Q&A assistant for the BESSER website, built with the BESSER Agentic Framework (BAF). It uses hybrid RAG (BM25 + vector search) over live BESSER documentation and supports multilingual questions out of the box.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1.0.0 — Raw Generated+manually updated | Backend agent developed with BESSER | [Repository](https://github.com/BESSER-PEARL/chatbot-agent)
 ---
 
 ## How to Add Your Tool
