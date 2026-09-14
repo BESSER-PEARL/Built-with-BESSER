@@ -87,6 +87,15 @@ A conversational Q&A assistant for the BESSER website, built with the BESSER Age
 | Version | Description | Link |Deployement URL|
 |---------|-------------|------|------|
 | v1.0.0 — Raw Generated+manually updated | Backend agent developed with BESSER | [Repository](https://github.com/BESSER-PEARL/chatbot-agent)
+
+### Stock Market Analyser
+
+An application to analyse the stocks at hand. You can add the stocks that you want to monitor. You can get its price for the last seven days and a forecast for the next two days for each stock added to the list.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1.0.0 — Raw Generated | End-to-end development with BESSER | [Repository](https://github.com/natarajan-chidambaram/stock-market-analyzer)
+
 ---
 
 ## How to Add Your Tool
