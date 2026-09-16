@@ -96,6 +96,14 @@ An application to analyse the stocks at hand. You can add the stocks that you wa
 |---------|-------------|------|------|
 | v1.0.0 — Raw Generated | End-to-end development with BESSER | [Repository](https://github.com/natarajan-chidambaram/stock-market-analyzer)
 
+### Taskflow
+
+A task management application with JWT authentication, user-owned todo lists, priorities, tags, reminders, comments, and authenticated file attachments.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1.0.0 — Raw Generated | Full-stack app — FastAPI backend and React front end — produced through BESSER's agentic interface | [Repository](https://github.com/ArmenSl/taskflow-besser) |
+
 ---
 
 ## How to Add Your Tool
