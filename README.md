@@ -104,6 +104,15 @@ A task management application with JWT authentication, user-owned todo lists, pr
 |---------|-------------|------|------|
 | v1.0.0 — Raw Generated | Full-stack app — FastAPI backend and React front end — produced through BESSER's agentic interface | [Repository](https://github.com/ArmenSl/taskflow-besser) |
 
+### Trade Lens
+
+Luxembourg's external trade explored by country × good × significance, built by the BESSER team for the STATEC Hackathon 2026. An SDMX importer turns Eurostat's description of the data into a BESSER class diagram, and the dashboard is generated from that model. A BAF agent answers questions by building charts on the page.
+
+| Version | Description | Link |Deployement URL|
+|---------|-------------|------|------|
+| v1 — Raw Generated | React frontend and FastAPI/SQLAlchemy backend from the WebAppGenerator (class diagram imported from SDMX + GUI model), plus a custom InsightsGenerator for the analytics API | Private | |
+| v2 — Enhanced | Extended by hand with an LLM agent built on the BESSER Agentic Framework (BAF), new charts and forecasting | Private | https://trade-lens.besser-pearl.org |
+
 ---
 
 ## How to Add Your Tool
